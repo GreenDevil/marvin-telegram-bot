@@ -9,6 +9,6 @@ Telegram бот на python
   bs4 (BeautifulSoup)
   
 Содержание config.py:
-  # -*- coding: utf-8 -*-
+   -*- coding: utf-8 -*-
   telegram_token = 'токен бота telegram'
   dialogflow_token = 'токен dialogflow'
