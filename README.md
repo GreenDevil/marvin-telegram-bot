@@ -2,13 +2,13 @@
 Telegram бот на python
 
 Необходимо установить пакеты через pip:
-  apiai
-  xml.etree ?
-  requests
-  telegram
-  bs4 (BeautifulSoup)
+  apiai <br/>
+  xml.etree ? </br>
+  requests </br>
+  telegram </br>
+  bs4 (BeautifulSoup) </br>
   
 Содержание config.py:
-   -*- coding: utf-8 -*-
-  telegram_token = 'токен бота telegram'
-  dialogflow_token = 'токен dialogflow'
+   -*- coding: utf-8 -*- </br>
+  telegram_token = 'токен бота telegram' </br>
+  dialogflow_token = 'токен dialogflow' </br>
